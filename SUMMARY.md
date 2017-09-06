@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* [第一部分](chapter1/README.md)
-    * [1.1 数学](chapter1/math/math.md)
-* [第二部分](chapter2/README.md)
-    * [2.1 算法](chapter2/algorithm/algorithm.md)
+* [技术](chapter1/README.md)
+    * [1.1 DOC](chapter1/doc/doc.md)
+* [生活](chapter2/README.md)
+    * [2.1 歌曲](chapter2/song/song.md)
